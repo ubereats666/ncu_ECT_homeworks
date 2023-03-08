@@ -1,0 +1,12 @@
+HW7
+
+python only
+
+1. pandas 打亂順序
+2. 建立randomForest分類 用F1評估
+3. scikit-learn 建立MLP 
+4. keras 建立MLP 有沒有切驗證集都可以
+5. F1 score是以哪個為依據
+6. 用t-test比較模型表現
+7. 用新的attribute判斷聲音的性別
+8. scikit-learn可以看
